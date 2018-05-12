@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1922
     wikipedia: http://en.wikipedia.org/wiki/Douglas_William_Jerrold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45057#Ambrose-Gwinettor-a-sea-side-story---a-melo-drama-in-three-acts
 gutenberg_issued: '2014-03-04'
 gutenberg_type: Text
 identifiers:
