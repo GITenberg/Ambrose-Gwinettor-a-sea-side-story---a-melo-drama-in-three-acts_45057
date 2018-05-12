@@ -1,0 +1,40 @@
+_repo: Ambrose-Gwinettor-a-sea-side-story---a-melo-drama-in-three-acts_45057
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Daniel, George
+    alias: Pindar, Peter
+    birthdate: 1789
+    deathdate: 1864
+    gutenberg_agent_id: '43055'
+    url: http://www.gutenberg.org/2009/agents/43055
+    wikipedia: http://en.wikipedia.org/wiki/George_Daniel_%28writer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerrold, Douglas William
+    aliases:
+    - Whitefeather, Barabbas
+    - Brownrigg, Henry
+    - Jerrold, D. W. (Douglas William)
+    birthdate: 1803
+    deathdate: 1857
+    gutenberg_agent_id: '1922'
+    url: http://www.gutenberg.org/2009/agents/1922
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_William_Jerrold
+description: ''
+gutenberg_issued: '2014-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 19th century'
+- !lcc 'PR'
+title: 'Ambrose Gwinett; or, a sea-side story: a melo-drama, in three acts'
+url: http://www.gutenberg.org/ebooks/45057
